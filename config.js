@@ -18,20 +18,20 @@ global.APIKeys = {
 
 //Owner React
 global.OWNER_REACT = '🧑🏻‍💻' //මෙතනට emoji එකක දාන්න.
-global.REACT_NUMBER = '9476342733' //මෙතන number එක.
+global.REACT_NUMBER = '212641919892' //මෙතන number එක.
 
 // Other
-global.owner = ['9476342733',''] //මෙතන number එක.
-global.premium = ['9476342733','9476342733'] //මෙතන number එක.
-global.botname = 'VIHANGA BOT INC' //මෙතන නම.
-global.ownername = 'Vihanga MD' //මෙතන නම.
+global.owner = ['212641919892',''] //මෙතන number එක.
+global.premium = ['212641919892','212641919892'] //මෙතන number එක.
+global.botname = 'am4yz BOT INC' //මෙතන නම.
+global.ownername = 'am4yz MD' //මෙතන නම.
 global.ownername = 'ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ' //මෙතන නම.
 global.group1 = 'https://chat.whatsapp.com/GTJmlChJZkoBhHVsENgc3Z' //මෙතන grouplink එක.
 global.group2 = 'https://chat.whatsapp.com/GTJmlChJZkoBhHVsENgc3Z' //මෙතන grouplink එක.
-global.packname = 'VIHANGA BOT INC' //මෙතන නම.
+global.packname = 'am4yz' //මෙතන නම.
 global.cap = '*By Vihanga MD*' //මෙතන නම.
-global.img = 'https://i.ibb.co/BBB6Rxn/Vihanga-MD.png' //මෙතන බොට්ගෙ photo එකට ඕන derect link එකක්.
-global.ytchannel = 'https://youtu.be/Z9rIR0Vopb8' //මෙතන කැමති ලින්ක් එකක්.
+global.img = 'https://i.imgur.com/ryogAiY.jpeg' //මෙතන බොට්ගෙ photo එකට ඕන derect link එකක්.
+global.ytchannel = 'https://www.youtube.com/channel/UCw7aNP8gE2p-XhJxWtEhrzg' //මෙතන කැමති ලින්ක් එකක්.
 global.monayawal = '100000' //මෙතන මාරු කරන්න එපා.
 global.darahawal = '100' //මෙතන මාරු කරන්න එපා.
 global.besiAwal = '15' //මෙතන මාරු කරන්න එපා.
@@ -82,10 +82,10 @@ global.limitawal = {
    umpanawal: 5,
    potionawal: 1
 }
-global.thumb = fs.readFileSync('./lib/20220602_094206.png')  
-global.bc = fs.readFileSync('./lib/20220602_094206.png')
-global.visoka = { url: 'https://i.imgur.com/LbmTdhf.mp4' }
-global.vid = { url: 'https://i.imgur.com/LbmTdhf.mp4' }
+global.thumb = fs.readFileSync('./https://i.imgur.com/ryogAiY.jpeg')  
+global.bc = fs.readFileSync('./https://i.imgur.com/ryogAiY.jpeg')
+global.visoka = { url: 'https://i.imgur.com/jH9Px31.mp4' }
+global.vid = { url: 'https://i.imgur.com/jH9Px31.mp4' }
 
 //—————「 Set Random Image Menu 」—————//
 
